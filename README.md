@@ -2,7 +2,7 @@
 
 Online retail veri seti ile k-means ile rfm analizi yaptım.
 
-Aşşağıdaki ptyhon kütüphaneleri kullanulmıştır.
+Aşağıdakilerden ptyhon kütüphaneleri kullanılmıştır.
 <ul>
   <li>pandas</li>
   <li>numpy</li>
